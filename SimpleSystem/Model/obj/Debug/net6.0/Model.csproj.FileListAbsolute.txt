@@ -1,0 +1,11 @@
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\bin\Debug\net6.0\Model.deps.json
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\bin\Debug\net6.0\Model.dll
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\bin\Debug\net6.0\Model.pdb
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.dll
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\refint\Model.dll
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\Model.pdb
+D:\_ACER\Desktop\МГ\SimpleSystem\Model\obj\Debug\net6.0\ref\Model.dll
